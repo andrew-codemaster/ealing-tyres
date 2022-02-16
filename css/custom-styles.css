@@ -1,0 +1,24 @@
+.bg-header {
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.carousel-inner {
+  height: 50vh;
+}
+
+.carousel-item {
+  height: 50vh;
+}
+
+.item-1 {
+  background-image: url("../assets/imgs/mechanic-under-car.jpeg");
+}
+
+.item-2 {
+  background-image: url("../assets/imgs/mechanic-checking-car.jpeg");
+}
+
+.item-3 {
+  background-image: url("../assets/imgs/man-changing-tyres.jpeg");
+}
