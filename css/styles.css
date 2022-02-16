@@ -266,11 +266,11 @@ sup {
 }
 
 a {
-  color: #0d6efd;
-  text-decoration: underline;
+  color: white;
+  text-decoration: none;
 }
 a:hover {
-  color: #0a58ca;
+  color: white;
 }
 
 a:not([href]):not([class]),
@@ -3116,9 +3116,7 @@ textarea.form-control.is-invalid {
     transition: none;
   }
 }
-.btn:hover {
-  color: #212529;
-}
+
 .btn-check:focus + .btn,
 .btn:focus {
   outline: 0;
